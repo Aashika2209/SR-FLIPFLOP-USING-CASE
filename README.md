@@ -59,6 +59,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 ![Screenshot 2024-12-19 052655](https://github.com/user-attachments/assets/9b1b311a-fdd8-4554-acdf-dfd4c8d6641a)
 
 **RESULTS**
+
 Thus the implemention of SR flipflop using verilog and the RTL,timing diagram are generated successfully.
 
 
